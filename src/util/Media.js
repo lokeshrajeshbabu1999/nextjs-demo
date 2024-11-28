@@ -5,7 +5,7 @@ export function courseImage(image) {
       : process.env.NEXT_PUBLIC_MEDIA_URL_DEV;
   // const IMAGE_URL = "https://d2d2rv85ws7181.cloudfront.net"
 
-  const imageUrl ="https://picsum.photos/536/354"
+  const imageUrl ="https://fastly.picsum.photos/id/1015/536/354.jpg?hmac=x7KEhPoOftwPXIgnQoTQzNtVUqaPYwndK8n1x_9rWuM"
   return imageUrl;
 }
 
