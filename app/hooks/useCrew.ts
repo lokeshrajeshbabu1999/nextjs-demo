@@ -1,5 +1,5 @@
+import axiosGuide from "@/pages/api/axiosGuide";
 import { useEffect, useState } from "react";
-import axiosGuide from "../api/axiosGuide";
 
 const useCrew = () => {
   const [userGuide, setUserGuide] = useState([]);

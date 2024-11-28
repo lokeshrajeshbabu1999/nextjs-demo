@@ -1,4 +1,4 @@
-import useCrew from './hooks/useCrew';
+import useCrew from '@/app/hooks/useCrew';
 import Link from 'next/link';
 import { Helmet } from 'react-helmet';
 
